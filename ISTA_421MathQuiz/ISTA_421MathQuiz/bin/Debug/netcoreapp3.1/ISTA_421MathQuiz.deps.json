@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ISTA_421MathQuiz/1.0.0": {
+        "runtime": {
+          "ISTA_421MathQuiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISTA_421MathQuiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
